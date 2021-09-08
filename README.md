@@ -2,11 +2,12 @@
 
 <br>
 
-React-Native로 제작한 IOS, Android 크로스 플랫폼 실시간 채팅 애플리케이션입니다. clone-coding => https://github.com/Alchemist85K/my-first-react-native
+React-Native로 제작한 IOS, Android 크로스 플랫폼 실시간 채팅 애플리케이션입니다. 
+clone-coding => https://github.com/Alchemist85K/my-first-react-native
 
 google Firebase를 이용하여 로그인, 회원가입 등의 기능을 구현하였습니다.
 
-테스트환경: Expo Android 
+테스트환경: Expo Android 에뮬레이터 및 실기기
 
 이하의 스크린샷으로 프로그램의 기능을 설명하겠습니다.
 
