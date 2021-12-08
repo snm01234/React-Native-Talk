@@ -3,7 +3,8 @@
 <br>
 
 React-Native로 제작한 IOS, Android 크로스 플랫폼 실시간 채팅 애플리케이션입니다. 
-clone-coding => https://github.com/Alchemist85K/my-first-react-native
+
+개발 참고 서적: [처음 배우는 리액트 네이티브](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162243879&orderClick=LEa&Kc=)  
 
 google Firebase를 이용하여 로그인, 회원가입 등의 기능을 구현하였습니다.
 
